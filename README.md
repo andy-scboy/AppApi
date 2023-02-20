@@ -53,7 +53,7 @@ This module helps you to create an api, to which an app or an external service c
 
 AppApi can be installed like every other module in ProcessWire. Check the following guide for detailed information: [How-To Install or Uninstall Modules](http://modules.processwire.com/install-uninstall/)
 
-The prerequisites are **PHP>=7.2.0** and a **ProcessWire version >=3.93.0**. However, this is also checked during the installation of the module. No further dependencies.
+The prerequisites are **PHP>=7.2.0** and a **ProcessWire version >=3.0.93**. However, this is also checked during the installation of the module. No further dependencies.
 
 <a name="faq"></a>
 
